@@ -1,0 +1,10 @@
+{
+    "name": "clone",
+    "url": {
+        "base": "https://clone.nl/",
+        "new": "all/new?sort=date"
+    },
+    "post": {
+        "identifier": ".contiainer-2 .list div.release"
+    }
+}
